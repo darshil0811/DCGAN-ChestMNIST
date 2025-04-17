@@ -1,6 +1,4 @@
-Sure! Here's a fully formatted and copy-paste-ready `README.md` for your project:
 
----
 
 ```markdown
 # 🧠 DCGAN on ChestMNIST – Synthetic Medical Image Generation
