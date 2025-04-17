@@ -1,3 +1,5 @@
+Sure! Here's a fully formatted and copy-paste-ready `README.md` for your project:
+
 ---
 
 ```markdown
@@ -146,3 +148,5 @@ This project is for academic and non-commercial research purposes only. Dataset 
 
 ---
 ```
+
+Let me know if you want this saved as a file (`README.md`) or want me to adjust it for GitHub-specific rendering or academic submission.
